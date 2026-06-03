@@ -1,4 +1,4 @@
-# 
+# Inteligente volume-based trading bot plugins para Mac OS | Profesional volume-based trading bot plugins para PC Windows. Con motor de backtesting y soporte de margen aislado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
